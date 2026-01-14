@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "mobile_development",
-    "slug": "mobile_development",
+    "name": "first-react-native-app",
+    "slug": "first-react-native-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "mobiledevelopment",
+    "scheme": "firstreactnativeapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
